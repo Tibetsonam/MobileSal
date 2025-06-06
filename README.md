@@ -1,6 +1,7 @@
 # MobileSal
 
-[IEEE TPAMI 2021: MobileSal: Extremely Efficient RGB-D Salient Object Detection](https://ieeexplore.ieee.org/document/9647954)
+[ICASSP 2025: 
+MFENet: Lightweight Multi-Frequency Enhancement Network for RGB-D Video Salient Object Detection](https://ieeexplore.ieee.org/document/9647954)
 
 This repository contains full training & testing code, and pretrained saliency maps. We have achieved competitive performance on the RGB-D salient object detection task with a speed of 450fps.
 
